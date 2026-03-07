@@ -304,5 +304,32 @@
     "rxp": 0,
     "dinero": 48,
     "rep": 0
+  },
+  {
+    "id": "69055121780979@lid",
+    "nombre": "ㅤ",
+    "nivel": 1,
+    "xp": 3,
+    "rxp": 0,
+    "dinero": 48,
+    "rep": 0
+  },
+  {
+    "id": "150814068863083@lid",
+    "nombre": "𝐬𝐭𝐫𝐲𝐱 𝐦𝐨𝐝𝐳 [VNX]",
+    "nivel": 1,
+    "xp": 1,
+    "rxp": 0,
+    "dinero": 50,
+    "rep": 0
+  },
+  {
+    "id": "71541941350574@lid",
+    "nombre": "Mateus",
+    "nivel": 1,
+    "xp": 1,
+    "rxp": 0,
+    "dinero": 50,
+    "rep": 0
   }
 ]
